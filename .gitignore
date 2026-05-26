@@ -1,2 +1,13 @@
 # Large HDF5 files
 *.h5
+
+# MATLAB
+*.asv
+*.mex*
+*.slxc
+*.slx~
+
+# OS
+.DS_Store
+Thumbs.db
+.claude/
