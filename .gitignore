@@ -1,3 +1,17 @@
+# Large data files
 *.mat
-processing_errors.log
+*.h5
+
+# MATLAB
 *.asv
+*.mex*
+*.slxc
+*.slx~
+
+# Logs
+processing_errors.log
+
+# OS
+.DS_Store
+Thumbs.db
+.claude/
