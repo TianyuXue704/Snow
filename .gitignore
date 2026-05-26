@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.mat
+*.mex*
+*.slxc
+*.slx~
+
+# OS
+.DS_Store
+Thumbs.db
+.claude/
